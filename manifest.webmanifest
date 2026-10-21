@@ -1,0 +1,15 @@
+{
+  "name": "Metabolic Logbook",
+  "short_name": "Logbook",
+  "description": "Personal log for weight, waist, glucose, Wegovy doses and A1c.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#edf1f2",
+  "theme_color": "#1f3a4d",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
